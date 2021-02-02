@@ -47,7 +47,7 @@ export default function Landing2() {
         trigger: left1,
         start: 'top bottom',
         end: 'bottom top',
-        markers: true,
+        markers: false,
         toggleActions: 'restart none restart none'
       }
     });
