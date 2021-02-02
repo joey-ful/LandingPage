@@ -1,0 +1,30 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "NODE_ENV=production next start",
+    "build": "next build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.18.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-react": "^7.22.0",
+    "gsap": "^3.6.0",
+    "next": "^10.0.6",
+    "next-images": "^1.7.0",
+    "next-redux-wrapper": "^6.0.2",
+    "polished": "^4.1.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "styled-components": "^5.2.1"
+  }
+}
